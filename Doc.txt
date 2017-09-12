@@ -2,3 +2,4 @@ new file
 change
 remote_change
 doc
+change_local1
