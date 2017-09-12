@@ -2,4 +2,4 @@ new file
 change
 remote_change
 doc
-change3
+change3 new msg
