@@ -3,6 +3,6 @@ change
 remote_change
 doc
 change3
-New change - local revtestnew change 1 - local revtest
+New change - remote revtestnew change 1 - local revtest
 change 2 - local revtest
 change 3 - local revtest
