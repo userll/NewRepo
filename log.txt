@@ -1,0 +1,9 @@
+error: Your local changes to the following files would be overwritten by checkout:
+	README.md
+	file1.md
+Please commit your changes or stash them before you switch branches.
+Aborting
+Your branch and 'origin/master' have diverged,
+and have 4 and 1 different commits each, respectively.
+  (use "git pull" to merge the remote branch into yours)
+Switched to branch 'master'
