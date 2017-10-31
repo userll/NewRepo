@@ -8,3 +8,4 @@ and have 4 and 1 different commits each, respectively.
   (use "git pull" to merge the remote branch into yours)
 Switched to branch 'master'
 sdfsd
+change to log 2
